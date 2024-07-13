@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichardOrimolade
-- 👀 I’m interested in Data Sci
-- 🌱 I’m currently learning python language
+- 👀 I’m interested in DevOp Engr and Data Analytics
+- 🌱 I’m currently learning DevOp, Linux Bash Scripting and python language
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me r.brownbobby20@gmail.com
 
