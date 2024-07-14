@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichardOrimolade
-- 👀 I’m interested in DevOp Engr and Data Analytics
-- 🌱 I’m currently learning DevOp, Linux Bash Scripting and python language
+- 👀 I’m interested working as a DevOp Engr, experience in Data Sci/Analytics
+- 🌱 I’m currently learning DevOp, Linux Bash Scripting and python language, Git, Github, Agile, Kub.
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me r.brownbobby20@gmail.com
 
